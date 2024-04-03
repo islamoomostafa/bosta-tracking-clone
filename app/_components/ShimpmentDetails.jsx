@@ -59,7 +59,7 @@ function ShipmentDetails() {
         </div>
       </div>
 
-      <div dir="rtl" className="flex flex-col w-full  items-center gap-3 ">
+      <div dir="rtl" className="flex flex-col w-fit  items-center gap-3 ">
         <h2>تفاصيل الشحنة</h2>
         <table className="border border-gray-200 text-[12px] rounded">
           <thead>
